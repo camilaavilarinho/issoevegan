@@ -1,32 +1,26 @@
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-2 sidebar">
       <!--Sidebar content-->
-
-      <p>
-        Search:
-        <input ng-model="$ctrl.query" />
-      </p>
-
-      <p>
-        Sort by:
-        <select ng-model="$ctrl.orderProp">
-          <option value="name">Alphabetical</option>
-          <option value="age">Newest</option>
-        </select>
-      </p>
-
-    </div>
+      <p>Pesquisar:</p>
+      <input ng-model="$ctrl.query" />
+      <br><br>
+      <p>Ordenar por:</p>
+      <select ng-model="$ctrl.orderProp">
+        <option value="name">Alfabetico</option>
+        <option value="age"></option>
+      </select>
+  </div>
     <div class="col-md-10">
       <!--Body content-->
 
       <ul class="phones">
         <li ng-repeat="phone in $ctrl.phones | filter:$ctrl.query | orderBy:$ctrl.orderProp"
             class="thumbnail phone-list-item">
-          <a href="#!/phones/{{phone.id}}" class="thumb">
+          <a href="{{phone.imageUrl}}" class="thumb">
             <img ng-src="{{phone.imageUrl}}" alt="{{phone.name}}" />
           </a>
-          <a href="#!/phones/{{phone.id}}">{{phone.name}}</a>
+          <h4 href="#">{{phone.name}}</h4>
           <p>{{phone.snippet}}</p>
         </li>
       </ul>

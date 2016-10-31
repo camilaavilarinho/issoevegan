@@ -8,10 +8,10 @@ angular.
 
       $routeProvider.
         when('/phones', {
-          template: '<phone-list></phone-list>'
+          template: '<page-list></page-list>'
         }).
-        when('/phones/:phoneId', {
-          template: '<phone-detail></phone-detail>'
+        when('/cosmeticos', {
+          template: '<phone-list></phone-list>'
         }).
         otherwise('/phones');
     }
