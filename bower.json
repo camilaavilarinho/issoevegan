@@ -1,8 +1,8 @@
 {
-  "name": "angular-phonecat",
-  "description": "A starter project for AngularJS",
+  "name": "vegan-list-app",
+  "description": "A collaborative guide to list vegan products",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-phonecat",
+  "homepage": "https://github.com/camilaavilarinho/issoevegan",
   "license": "MIT",
   "private": true,
   "dependencies": {

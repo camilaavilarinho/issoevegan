@@ -1,7 +1,6 @@
 [
     {
         "age": 0,
-        "id": "Anaconda Cosméticos",
         "imageUrl": "img/products/anaconda.png",
         "name": "Anaconda cosméticos",
         "snippet": [
@@ -19,77 +18,66 @@
     },
     {
         "age": 1,
-        "id": "Impala Cosméticos",
         "imageUrl": "img/products/impala.jpg",
         "name": "Impala Cosméticos",
         "snippet": ["Óleos", "Sais e Espuma", "Sabonete", "Shampoo", "Condicionador", "Cabelo", "Creme Hidratante", "Perfumes/Colônia", "Maquiagem", "Esmalte", "Removedor", "Óleo Secante", "Óleo para Cutículas"]
     },
     {
         "age": 2,
-        "id": "Embelleze",
         "imageUrl": "img/products/embelleze.png",
         "name": "Embelleze",
         "snippet": ["Cabelo", "Shampoo", "Condicionador", "Descolorante", "Tintura", "Shampoo Tonalizante"]
     },
     {
         "age": 3,
-        "id": "Vult cosmética",
         "imageUrl": "img/products/vult.jpg",
         "name": "Vult cosmética",
         "snippet": ["Shampoo", "Condicionador", "Cabelo", "Maquiagem"]
     },
     {
         "age": 4,
-        "id": "Davene",
         "imageUrl": "img/products/davene.jpg",
         "name": "Davene",
         "snippet": ["Bebê", "Colônia", "Creme Dental",  "Sabonete", "Shampoo", "Condicionador", "Óleo", "Talco", "Protetor/Bronzeador Solar", "Hidratante Solar", "Óleos, Sais e Espuma", "Rosto", "Creme Hidratante"]
     },
     {
         "age": 5,
-        "id": "Pythoervas",
         "imageUrl": "img/products/pythoervas.png",
         "name": "Pythoervas",
         "snippet": ["Sabonete", "Shampoo", "Condicionador", "Cabelo", "Creme Hidratante"]
     },
     {
         "age": 6,
-        "id": "Nazca Cosméticos",
         "imageUrl": "img/products/nazca.png",
         "name": "Nazca Cosméticos",
         "snippet": ["Bebê", "colônia", "Creme Dental",  "Sabonete", "Shampoo", "Condicionador", "Óleo", "Talco", "Cabelo", "Descolorante", "Tintura", "Shampoo Tonalizante", "Creme Hidratante", "Desodorante", "Creme", "Espuma", "Gel para Barbear", "Loção pós Barba"]
     },
     {
         "age": 7,
-        "id": "Yama",
         "imageUrl": "img/products/yama.png",
         "name": "Yama",
         "snippet": ["Sabonete", "Shampoo", "Condicionador", "Cabelo", "Descolorante", "Tintura", "Shampoo Tonalizante", "Creme Hidratante", "Esmalte", "Removedor", "Óleo Secante", "Óleo para Cutículas", "Água Oxigenada e Descolorante de Pêlos", "Cera e Produtos de Depilação"]
     },
     {
         "age": 8,
-        "id": "Sther",
         "imageUrl": "img/products/sther.png",
         "name": "Sther",
         "snippet": ["Bebê", "Colônia", "Creme Dental", "Shampoo", "Condicionador", "Óleo", "Talco", "Sabonete", "Cabelo", "Creme Hidratante", "Desodorante"]
     },
     {
         "age": 9,
-        "id": "Acquaflora",
         "imageUrl": "img/products/acquaflora.jpg",
         "name": "Acquaflora",
         "snippet": ["Sabonete", "Shampoo", "Condicionador", "Cabelo", "Corpo"]
     },
     {
         "age": 10,
-        "id": "Amend",
         "imageUrl": "img/products/amend.jpg",
         "name": "Amend",
         "snippet": ["Shampoo", "Condicionador", "Cabelo"]
     },
     {
         "age": 11,
-        "id": "Memphis",
         "imageUrl": "img/products/memphis.jpg",
         "name": "Memphis",
         "snippet": ["Bebê", "Colônia", "Creme Dental",  "Sabonete", "Shampoo", "Condicionador", "Óleo", "Talco", "Creme Hidratante", "Desodorante", "Perfumes/Colônias"]
