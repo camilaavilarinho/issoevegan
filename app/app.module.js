@@ -1,9 +1,14 @@
 'use strict';
 
 // Define the `phonecatApp` module
-angular.module('phonecatApp', [
+angular.module('veganApp', [
   'ngAnimate',
   'ngRoute',
   'pageList',
-  'productList'
+  'productList',
+  'foodList',
+  'cleaningList',
+  'hygieneList',
+  'childrenList',
+  'otherList'
 ]);

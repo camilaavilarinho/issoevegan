@@ -1,11 +1,11 @@
 'use strict';
 
 angular.
-  module('productList').
-  component('productList', {
-    templateUrl: 'product-list/product-list.template.html',
+  module('hygieneList').
+  component('hygieneList', {
+    templateUrl: 'hygiene-list/hygiene-list.template.html',
     controller: ['$http', '$scope',
-      function ProductListController($http, $scope) {
+      function HygieneListController($http, $scope) {
         $scope.products = [];
         $http.get('products/products.json').then(function(response) {
           $scope.products = response.data;
