@@ -21,7 +21,7 @@
             <img ng-src="{{phone.imageUrl}}" alt="{{phone.name}}" />
           </a>
           <h4 href="#">{{phone.name}}</h4>
-          <p>{{phone.snippet}}</p>
+          <p ng-repeat="tag in phone.snippet" class="tag"> {{tag}}</p>
         </li>
       </ul>
 

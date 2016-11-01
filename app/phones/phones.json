@@ -4,83 +4,94 @@
         "id": "Anaconda Cosméticos",
         "imageUrl": "img/phones/anaconda.png",
         "name": "Anaconda cosméticos",
-        "snippet": "Maquiagem, Sabonete, Shampoo, Condicionador, Desodorante, Creme Hidratante, Cabelo, Corpo, Rosto, manteiga de cacau"
+        "snippet": [
+          "Maquiagem",
+          "Sabonete",
+          "Shampoo",
+          "Condicionador",
+          "Desodorante",
+          "Creme Hidratante",
+          "Cabelo",
+          "Corpo",
+          "Rosto",
+          "Manteiga de cacau"
+        ]
     },
     {
         "age": 1,
         "id": "Impala Cosméticos",
         "imageUrl": "img/phones/impala.jpg",
         "name": "Impala Cosméticos",
-        "snippet": "Óleos, Sais e Espuma, Sabonete, Shampoo, Condicionador, Cabelo, Creme Hidratante, Perfumes/Colônia, Maquiagem, Esmalte, Removedor, Óleo Secante, Óleo para Cutículas"
+        "snippet": ["Óleos", "Sais e Espuma", "Sabonete", "Shampoo", "Condicionador", "Cabelo", "Creme Hidratante", "Perfumes/Colônia", "Maquiagem", "Esmalte", "Removedor", "Óleo Secante", "Óleo para Cutículas"]
     },
     {
         "age": 2,
         "id": "Embelleze",
         "imageUrl": "img/phones/embelleze.png",
         "name": "Embelleze",
-        "snippet": "Cabelo, Shampoo/Condicionador, Descolorante, Tintura, Shampoo Tonalizante"
+        "snippet": ["Cabelo", "Shampoo", "Condicionador", "Descolorante", "Tintura", "Shampoo Tonalizante"]
     },
     {
         "age": 3,
         "id": "Vult cosmética",
         "imageUrl": "img/phones/vult.jpg",
         "name": "Vult cosmética",
-        "snippet": "Shampoo, Condicionador, Cabelo, Maquiagem"
+        "snippet": ["Shampoo", "Condicionador", "Cabelo", "Maquiagem"]
     },
     {
         "age": 4,
         "id": "Davene",
         "imageUrl": "img/phones/davene.jpg",
         "name": "Davene",
-        "snippet": "Bebê, Colônia, Creme Dental,  Sabonete, Shampoo, Condicionador, Óleo, Talco, Protetor/Bronzeador Solar, Hidratante Solar, Óleos, Sais e Espuma, Sabonete, Rosto, Creme Hidratante"
+        "snippet": ["Bebê", "Colônia", "Creme Dental",  "Sabonete", "Shampoo", "Condicionador", "Óleo", "Talco", "Protetor/Bronzeador Solar", "Hidratante Solar", "Óleos, Sais e Espuma", "Rosto", "Creme Hidratante"]
     },
     {
         "age": 5,
         "id": "Pythoervas",
         "imageUrl": "img/phones/pythoervas.png",
         "name": "Pythoervas",
-        "snippet": "Sabonete, Shampoo, Condicionador, Cabelo, Creme Hidratante"
+        "snippet": ["Sabonete", "Shampoo", "Condicionador", "Cabelo", "Creme Hidratante"]
     },
     {
         "age": 6,
         "id": "Nazca Cosméticos",
         "imageUrl": "img/phones/nazca.png",
         "name": "Nazca Cosméticos",
-        "snippet": "Bebê, colônia, Creme Dental,  Sabonete, Shampoo, Condicionador, Óleo, Talco, Cabelo, Descolorante, Tintura, Shampoo Tonalizante, Creme Hidratante, Desodorante, Creme, Espuma, Gel para Barbear, Loção pós Barba"
+        "snippet": ["Bebê", "colônia", "Creme Dental",  "Sabonete", "Shampoo", "Condicionador", "Óleo", "Talco", "Cabelo", "Descolorante", "Tintura", "Shampoo Tonalizante", "Creme Hidratante", "Desodorante", "Creme", "Espuma", "Gel para Barbear", "Loção pós Barba"]
     },
     {
         "age": 7,
         "id": "Yama",
         "imageUrl": "img/phones/yama.png",
         "name": "Yama",
-        "snippet": "Sabonete, Shampoo, Condicionador, Cabelo, Descolorante, Tintura, Shampoo Tonalizante, Creme Hidratante, Esmalte, Removedor, Óleo Secante, Óleo para Cutículas, Água Oxigenada e Descolorante de Pêlos, Cera e Produtos de Depilação"
+        "snippet": ["Sabonete", "Shampoo", "Condicionador", "Cabelo", "Descolorante", "Tintura", "Shampoo Tonalizante", "Creme Hidratante", "Esmalte", "Removedor", "Óleo Secante", "Óleo para Cutículas", "Água Oxigenada e Descolorante de Pêlos", "Cera e Produtos de Depilação"]
     },
     {
         "age": 8,
         "id": "Sther",
         "imageUrl": "img/phones/sther.png",
         "name": "Sther",
-        "snippet": "Bebê, Colônia, Creme Dental,  Sabonete, Shampoo, Condicionador, Óleo, Talco, Sabonete, Shampoo, Condicionador, Cabelo, Creme Hidratante, Desodorante"
+        "snippet": ["Bebê", "Colônia", "Creme Dental", "Shampoo", "Condicionador", "Óleo", "Talco", "Sabonete", "Cabelo", "Creme Hidratante", "Desodorante"]
     },
     {
         "age": 9,
         "id": "Acquaflora",
         "imageUrl": "img/phones/acquaflora.jpg",
         "name": "Acquaflora",
-        "snippet": "Sabonete, Shampoo, Condicionador, Cabelo, Corpo"
+        "snippet": ["Sabonete", "Shampoo", "Condicionador", "Cabelo", "Corpo"]
     },
     {
         "age": 10,
         "id": "Amend",
         "imageUrl": "img/phones/amend.jpg",
         "name": "Amend",
-        "snippet": "Shampoo, Condicionador, Cabelo"
+        "snippet": ["Shampoo", "Condicionador", "Cabelo"]
     },
     {
         "age": 11,
         "id": "Memphis",
         "imageUrl": "img/phones/memphis.jpg",
         "name": "Memphis",
-        "snippet": "Bebê, Colônia, Creme Dental,  Sabonete, Shampoo, Condicionador, Óleo, Talco, Sabonete, Creme Hidratante, Desodorante, Perfumes/Colônias"
+        "snippet": ["Bebê", "Colônia", "Creme Dental",  "Sabonete", "Shampoo", "Condicionador", "Óleo", "Talco", "Creme Hidratante", "Desodorante", "Perfumes/Colônias"]
     }
 ]
