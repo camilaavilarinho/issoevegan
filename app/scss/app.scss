@@ -1,0 +1,125 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=Lato';
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,900');
+
+$primary-blue: #2ecc71;
+$secondary: #e74c3c;
+$background: #ecf0f1;
+$font-color: #2c3e50;
+
+body{
+  background-color: #fff;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3,
+h4{
+  color: $primary-blue;
+  font-weight: bold;
+}
+h3{
+  margin-left: 20px;
+}
+.cover-side{
+  h1{
+    text-align: center;
+    padding-top: 50px;
+    color: #27ae60;
+    font-size: 50px;
+    font-weight: 700;
+  }
+  h3{
+    text-align: center;
+    color: #bdc3c7;
+    padding-top: 20px;
+    font-weight: 300;
+    line-height: 30px;
+  }
+
+}
+.pre-page-link{
+  text-decoration: none;
+}
+.pre-page {
+  position: relative;
+  background-color: $background;
+  /*border-radius: 10px;*/
+  height: 150px;
+  margin-top: 50px;
+  box-shadow: 2px 2px #ddd;
+  border-left: 4px solid $primary-blue;
+
+  i{
+    color: $primary-blue;
+    padding-top: 30px;
+    padding-left: 40%;
+    padding-bottom: 20px;
+  }
+
+  h4{
+    text-align: center;
+    /*padding-top: ;*/
+  }
+
+}
+.pre-page:hover{
+
+}
+
+//back arrow
+.back{
+  margin-left: 15px;
+  color: $secondary;
+}
+
+/* Products page*/
+.sidebar{
+  p{
+    font-size: 17px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #bdc3c7;
+  }
+  input, select{
+    border: 2px solid $primary-blue;
+    height: 40px;
+    width: 100%;
+    font-size: 17px;
+    border-radius: 0;
+  }
+}
+
+.products {
+  list-style: none;
+}
+
+.products li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+  box-shadow: 2px 2px #ddd;
+  border-left: 4px solid $primary-blue;
+  border-radius: 0;
+
+  p{
+    color: #7f8c8d;
+  }
+  .tag{
+    display: inline;
+    color: white;
+    background-color: #1abc9c;
+    margin: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 20px;
+
+  }
+}
+
+.thumb {
+  float: left;
+  height: 100px;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  width: 100px;
+}
