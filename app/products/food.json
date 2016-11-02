@@ -19,42 +19,36 @@
     },
     {
         "age": 3,
-        "imageUrl": "img/products/bauducco.jpg",
-        "name": "Bauducco",
-        "snippet": ["Batata Palha", "Biscoito Cracker", "Biscoito Doce", "Biscoito Maisena", "Torradas", "Waffer"]
-    },
-    {
-        "age": 4,
         "imageUrl": "img/products/mae-terra.jpg",
         "name": "Mãe Terra",
         "snippet": ["Cereais Matinais", "Flocos de Milho", "Cookies",  "Extrato de soja", "Macarrão Instantâneo", "Mistura para Bolo", "Salgadinhos/Snacks", "Sopa Instantânea"]
     },
     {
-        "age": 5,
+        "age": 4,
         "imageUrl": "img/products/kenko.jpg",
         "name": "Kenko",
         "snippet": ["Catchup", "Cobertura para Sorvete", "Farinha tipo Panco - Empanar", "Molho Barbecue", "Molho de Pimenta"]
     },
     {
-        "age": 6,
+        "age": 5,
         "imageUrl": "img/products/logo-casino.jpg",
         "name": "Casino",
         "snippet": ["Catchup", "Macarrão", "Massa de Lasanha",  "Molho de Tomate", "Tomate Pelado"]
     },
     {
-        "age": 7,
+        "age": 6,
         "imageUrl": "img/products/dr-oetker.jpg",
         "name": "Dr.Oetker",
         "snippet": ["Chá", "Fermento Químico Seco"]
     },
     {
-        "age": 8,
+        "age": 7,
         "imageUrl": "img/products/dona-benta.png",
         "name": "Dona Benta",
         "snippet": ["Fermento Fresco", "Fermento Químico Seco", "Macarrão", "Mistura para Bolo"]
     },
     {
-        "age": 9,
+        "age": 8,
         "imageUrl": "img/products/superbom.png",
         "name": "Superbom",
         "snippet": ["Linguiça Vegetal", "Maionese", "Melado de cana", "Molho Bolonhesa de Soja", "Pasta/Patê de Soja", "Queijo Vegetal"]

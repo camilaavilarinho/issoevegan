@@ -1,4 +1,3 @@
-/* Animate `ngRepeat` in `phoneList` component */
 .product-list-item.ng-enter,
 .product-list-item.ng-leave,
 .product-list-item.ng-move {
