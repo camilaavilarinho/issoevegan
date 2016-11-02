@@ -1,0 +1,44 @@
+[
+    {
+        "age": 0,
+        "imageUrl": "img/products/bufalo.png",
+        "name": "Búfalo",
+        "snippet": ["Água Sanitária", "Amaciante de Roupas", "Desinfetante", "Limpador Multi Uso", "Lustra Móveis", "Removedor", "Soda Caustica"]
+    },
+    {
+        "age": 1,
+        "imageUrl": "img/products/ype.jpg",
+        "name": "Ype",
+        "snippet": ["Água Sanitária", "Detergente/Lava Louças", "Limpador Multiuso", "Sabão em Pó", "Sabão Líquido para Roupas"]
+    },
+    {
+        "age": 2,
+        "imageUrl": "img/products/biowash.png",
+        "name": "BioWash",
+        "snippet": ["Desengordurante", "Detergente/Lava Louças", "Limpa Vidros", "Limpador Multi Uso", "Sabão Líquido para Roupas"]
+    },
+    {
+        "age": 3,
+        "imageUrl": "img/products/uau.png",
+        "name": "UAU",
+        "snippet": ["Amaciante de Roupas", "Desengordurante", "Limpa Vidros", "Limpador Multi Uso", "Sabão Líquido para Roupas", "Saponáceo"]
+    },
+    {
+        "age": 4,
+        "imageUrl": "img/products/assolan.png",
+        "name": "Assolan",
+        "snippet": ["Esponja Dupla Face", "Palha de Aço"]
+    },
+    {
+        "age": 5,
+        "imageUrl": "img/products/plush.png",
+        "name": "Plush",
+        "snippet": ["Amaciante de Roupas", "Passa Fácil", "Sabão Líquido para Roupas"]
+    },
+    {
+        "age": 6,
+        "imageUrl": "img/products/milao.jpg",
+        "name": "Milão",
+        "snippet": ["Detergente/Lava Louças", "Sabão em Barra", "Sabão em Pó",  "Sabão Líquido para Roupas"]
+    }
+]

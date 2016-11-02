@@ -1,0 +1,44 @@
+[
+    {
+        "age": 0,
+        "imageUrl": "img/products/natracare.png",
+        "name": "Natracare",
+        "snippet": ["Absorvente", "Tampões", "Lenço Umedecido"]
+    },
+    {
+        "age": 1,
+        "imageUrl": "img/products/fiordiluna.png",
+        "name": "Fiordiluna",
+        "snippet": ["Absorvente", "Tampões"]
+    },
+    {
+        "age": 2,
+        "imageUrl": "img/products/bellacotton.jpeg",
+        "name": "Bellacotton",
+        "snippet": ["Algodão", "Contonetes", "Curativo", "Esparadrapo"]
+    },
+    {
+        "age": 3,
+        "imageUrl": "img/products/condor.jpg",
+        "name": "Condor",
+        "snippet": ["Escova de Dentes", "Fio Dental"]
+    },
+    {
+        "age": 4,
+        "imageUrl": "img/products/primavera.jpg",
+        "name": "Primavera",
+        "snippet": ["Papel Higiênico"]
+    },
+    {
+        "age": 5,
+        "imageUrl": "img/products/livealoe.jpg",
+        "name": "LiveAloe",
+        "snippet": ["Desodorante", "Desodorante para Pés"]
+    },
+    {
+        "age": 6,
+        "imageUrl": "img/products/contente.jpg",
+        "name": "Contente",
+        "snippet": ["Fio Dental", "Pasta de Dente"]
+    }
+]

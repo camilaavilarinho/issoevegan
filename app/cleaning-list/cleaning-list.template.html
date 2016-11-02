@@ -11,17 +11,19 @@
         <option value="age"></option>
       </select>
   </div>
-    <div class="col-md-10">
-      <ul class="products">
-        <li ng-repeat="product in products | filter:$ctrl.query | orderBy:$ctrl.orderProp"
-            class="thumbnail product-list-item">
-          <a href="{{product.imageUrl}}" class="thumb">
-            <img ng-src="{{product.imageUrl}}" alt="{{product.name}}" />
-          </a>
-          <h4 href="#">{{product.name}}</h4>
+  <div class="col-md-10">
+    <ul class="products">
+      <li ng-repeat="product in products | filter:$ctrl.query | orderBy:$ctrl.orderProp"
+          class="thumbnail product-list-item table-responsive">
+        <a href="{{product.imageUrl}}" class="thumb">
+          <img ng-src="{{product.imageUrl}}" alt="{{product.name}}" />
+        </a>
+        <h4 href="#">{{product.name}}</h4>
+        <div class="table">
           <p ng-repeat="tag in product.snippet" class="tag"> {{tag}}</p>
-        </li>
-      </ul>
-    </div>
+        </div>
+      </li>
+    </ul>
+  </div>
   </div>
 </div>

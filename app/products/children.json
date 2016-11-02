@@ -1,0 +1,32 @@
+[
+    {
+        "age": 0,
+        "imageUrl": "img/products/morada.jpg",
+        "name": "Morada da Floresta",
+        "snippet": ["Fralda plush"]
+    },
+    {
+        "age": 1,
+        "imageUrl": "img/products/wiona.jpg",
+        "name": "Wiona",
+        "snippet": ["Fralda Descartável"]
+    },
+    {
+        "age": 2,
+        "imageUrl": "img/products/condor.jpg",
+        "name": "Condor",
+        "snippet": ["Pasta de Dentes Infantil"]
+    },
+    {
+        "age": 3,
+        "imageUrl": "img/products/contente.jpg",
+        "name": "Contente",
+        "snippet": ["Pasta de Dentes Infantil"]
+    },
+    {
+        "age": 4,
+        "imageUrl": "img/products/davene.jpg",
+        "name": "Davene",
+        "snippet": ["Shampoo", "Talco infantil"]
+    }
+]

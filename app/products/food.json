@@ -1,0 +1,62 @@
+[
+    {
+        "age": 0,
+        "imageUrl": "img/products/Native.png",
+        "name": "Native",
+        "snippet": ["Achocolatado", "Azeite Extra Virgem", "Cereais Matinais", "Flocos de Milho", "Café em Pó", "Cookies", "Granola", "Leite de Soja", "Leite Vegetal Achocolatado"]
+    },
+    {
+        "age": 1,
+        "imageUrl": "img/products/jasmine.png",
+        "name": "Jasmine",
+        "snippet": ["Achocolatado", "Adoçante", "Cookies", "Extrato de Soja", "Granola", "Leite de Soja em Pó", "Leites Vegetais", "Pipoca de Microondas", "Rosquinhas", "Salgadinhos/Snacks"]
+    },
+    {
+        "age": 2,
+        "imageUrl": "img/products/castelo.jpg",
+        "name": "Castelo",
+        "snippet": ["Azeite Comum", "Azeite Extra Virgem", "Vinagre"]
+    },
+    {
+        "age": 3,
+        "imageUrl": "img/products/bauducco.jpg",
+        "name": "Bauducco",
+        "snippet": ["Batata Palha", "Biscoito Cracker", "Biscoito Doce", "Biscoito Maisena", "Torradas", "Waffer"]
+    },
+    {
+        "age": 4,
+        "imageUrl": "img/products/mae-terra.jpg",
+        "name": "Mãe Terra",
+        "snippet": ["Cereais Matinais", "Flocos de Milho", "Cookies",  "Extrato de soja", "Macarrão Instantâneo", "Mistura para Bolo", "Salgadinhos/Snacks", "Sopa Instantânea"]
+    },
+    {
+        "age": 5,
+        "imageUrl": "img/products/kenko.jpg",
+        "name": "Kenko",
+        "snippet": ["Catchup", "Cobertura para Sorvete", "Farinha tipo Panco - Empanar", "Molho Barbecue", "Molho de Pimenta"]
+    },
+    {
+        "age": 6,
+        "imageUrl": "img/products/logo-casino.jpg",
+        "name": "Casino",
+        "snippet": ["Catchup", "Macarrão", "Massa de Lasanha",  "Molho de Tomate", "Tomate Pelado"]
+    },
+    {
+        "age": 7,
+        "imageUrl": "img/products/dr-oetker.jpg",
+        "name": "Dr.Oetker",
+        "snippet": ["Chá", "Fermento Químico Seco"]
+    },
+    {
+        "age": 8,
+        "imageUrl": "img/products/dona-benta.png",
+        "name": "Dona Benta",
+        "snippet": ["Fermento Fresco", "Fermento Químico Seco", "Macarrão", "Mistura para Bolo"]
+    },
+    {
+        "age": 9,
+        "imageUrl": "img/products/superbom.png",
+        "name": "Superbom",
+        "snippet": ["Linguiça Vegetal", "Maionese", "Melado de cana", "Molho Bolonhesa de Soja", "Pasta/Patê de Soja", "Queijo Vegetal"]
+    }
+]

@@ -7,7 +7,7 @@ angular.
     controller: ['$http', '$scope',
       function HygieneListController($http, $scope) {
         $scope.products = [];
-        $http.get('products/products.json').then(function(response) {
+        $http.get('products/hygiene.json').then(function(response) {
           $scope.products = response.data;
         });
       }

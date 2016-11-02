@@ -1,0 +1,32 @@
+[
+    {
+        "age": 0,
+        "imageUrl": "img/products/acrilex.jpg",
+        "name": "Acrilex",
+        "snippet": ["Caneta", "Cola Branca", "Tinta para Tecidos"]
+    },
+    {
+        "age": 1,
+        "imageUrl": "img/products/tombom.png",
+        "name": "Tom Bom",
+        "snippet": ["Graxa para Sapatos"]
+    },
+    {
+        "age": 2,
+        "imageUrl": "img/products/colgin.jpg",
+        "name": "Colgin",
+        "snippet": ["Fumaça Liquida"]
+    },
+    {
+        "age": 3,
+        "imageUrl": "img/products/le-bidou.jpg",
+        "name": "Le Bidou",
+        "snippet": ["Shampoo para Cães"]
+    },
+    {
+        "age": 4,
+        "imageUrl": "img/products/sanol.jpg",
+        "name": "Sanol",
+        "snippet": ["Shampoo para Cães"]
+    }
+]
