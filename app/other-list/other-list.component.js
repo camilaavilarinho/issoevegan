@@ -3,7 +3,7 @@
 angular.
   module('otherList').
   component('otherList', {
-    templateUrl: 'other-list/other-list.template.html',
+    templateUrl: 'product-list/product-list.template.html',
     controller: ['$http', '$scope',
       function OtherListController($http, $scope) {
         $scope.products = [];

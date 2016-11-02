@@ -3,7 +3,7 @@
 angular.
   module('childrenList').
   component('childrenList', {
-    templateUrl: 'children-list/children-list.template.html',
+    templateUrl: 'product-list/product-list.template.html',
     controller: ['$http', '$scope',
       function ChildrenListController($http, $scope) {
         $scope.products = [];

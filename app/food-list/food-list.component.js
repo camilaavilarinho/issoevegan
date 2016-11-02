@@ -3,7 +3,7 @@
 angular.
   module('foodList').
   component('foodList', {
-    templateUrl: 'food-list/food-list.template.html',
+    templateUrl: 'product-list/product-list.template.html',
     controller: ['$http', '$scope',
       function FoodListController($http, $scope) {
         $scope.products = [];

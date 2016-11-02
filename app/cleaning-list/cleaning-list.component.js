@@ -3,7 +3,7 @@
 angular.
   module('cleaningList').
   component('cleaningList', {
-    templateUrl: 'cleaning-list/cleaning-list.template.html',
+    templateUrl: 'product-list/product-list.template.html',
     controller: ['$http', '$scope',
       function CleaningListController($http, $scope) {
         $scope.products = [];
