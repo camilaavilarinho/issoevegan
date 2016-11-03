@@ -7,7 +7,7 @@ angular.
       $locationProvider.hashPrefix('!');
 
       $routeProvider.
-        when('/', {
+        when('/inicio', {
           template: '<page-list></page-list>'
         }).
         when('/cosmeticos', {
@@ -28,6 +28,6 @@ angular.
         when('/outros', {
           template: '<other-list></other-list>'
         }).
-        otherwise('/');
+        otherwise('/inicio');
     }
   ]);
